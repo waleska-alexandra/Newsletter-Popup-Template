@@ -1,0 +1,153 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+body{
+    min-height: 100vh;
+    background-image: url(Assets/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    max-width: 28rem;
+    height: 505px;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 2%;
+    overflow: hidden;
+}
+
+header{
+    background-color:rgba(57,81, 214, 1);
+    max-width: 28rem;
+    height: 200px;
+}
+
+.pattern{
+    height: 100%;
+    width: 100%;
+}
+
+
+h2{
+    position: absolute;
+    top: 4rem;
+    left: 7.2rem;
+    width: 50%;
+    text-align: center;
+    color:#fff;
+}
+
+h4{
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #000;
+    font-weight: 400;
+}
+
+h4:not(.quote){
+    margin-bottom: 1rem;
+}
+
+h4:not(.subtitle){
+    width: 90%;
+    margin: -0.5rem auto;
+}
+
+.container-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+.form{
+    height: 40px;
+    width: 68%;
+    margin: 0 10px;
+    border: none;
+    border: 1px solid #D3DAE6;
+    border-radius: 5px;
+    background-color: rgba(211, 218, 230, 0.4);
+}
+
+input[type="email"]::placeholder {  
+    padding-left: 15px; 
+} 
+
+p:nth-child(1){
+    margin-left: 25px;
+}
+
+.button{
+    height: 40px;
+    width: 25%;
+    border: none;
+    border-radius: 5px;
+    background-color: #002BD6;
+    color: #fff;
+}
+
+.button:hover{
+    background-color:#737CEB ;
+    cursor: pointer;
+}
+
+.profile{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    max-width: 400px;
+    margin: 30px auto 10px auto;
+}
+
+.profile > div{
+    margin: 0.3rem;
+}
+
+.profile > div > h5{
+    font-weight: 600;
+}
+
+
+.profile > div > p{
+    font-size: 0.8rem;
+    color: grey;
+}
+
+
+.no-spam{
+    margin: 1rem;
+    font-size: 0.8rem;
+    color: gray;
+}
+
+
+
+@media only screen and (max-width:425px){
+    .container{
+        width: 100%;
+    }
+    h2:nth-child(1){
+        width: 50%;
+        font-size: 1.3rem;
+        position: absolute;
+        left: 100px;
+    }
+   
+
+    h4:not(.subtitle){
+        font-size: 0.7rem;
+    }
+}
