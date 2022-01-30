@@ -1,30 +1,30 @@
 
-# Welcome to Codewell! 👋
+# Codewell - Newsletter-Popup-Template 👋
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+This is a solution to the <a href=https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj> Newsletter-Popup-Template on Codewell. </a>
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
+## Table of Contents
 
-### I've completed the challenge, now what?
+* <a href=https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#screenshot>Screenshot </a>
+* <a href=https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#links>Links </a>
+* <a href=https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#process>What is the process? </a>
 
-We recommend using one of these two websites to deploy your projects
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+## Screenshot
+![screenshot project frontend mentor](https://user-images.githubusercontent.com/76563412/143491421-59573a73-2b40-4412-85f9-2cf0cb0b1621.png)
 
 
-### Submit your solution to Codewell
+## Links
 
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
-
-### Join our community on Slack
-
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
+* Solution Codewell: <a href=https://www.frontendmentor.io/solutions/order-summary-card-challenge-jho2o0OaJ> View Solution </a>
+* Live Site: <a href=https://waleska-alexandra.github.io/order-summary-component-main/> click here </a>
 
 
-### Fonts Used
+## Process
 
-https://fonts.google.com/specimen/Work+Sans
+* HTML 5
+* CSS
+* Responsive Design (Flex)
+
+## Author
+* Frontend Mentor: <a href=https://www.frontendmentor.io/profile/waleska-alexandra>@Waleska-Alexandra</a>
+* Twitter: @WaleskaRangelB / @rangelwaleska_
